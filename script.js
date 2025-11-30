@@ -336,11 +336,7 @@ function updatePaymentTotal() {
 function handlePayment(event) {
     event.preventDefault(); 
     
-    var name = document.getElementById("customer-name").value;
-    if(name === "") name = "Guest";
-    
-    alert("Thank you " + name + "! Your order has been placed."); // Requirement: Alert 2
-    
+    alert("Thank you Guest! Your order has been placed."); // Requirement: Alert 2
     
     myCart = [];
     updateCartDisplay();
