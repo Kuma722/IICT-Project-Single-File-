@@ -2,11 +2,11 @@
 body {
     background-color: #1D1B1B;
     color: #FFFFFF;
-    font-family: 'Inter', sans-serif;
+    font-family:'Times New Roman', Times, serif, serif;
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: 'Playfair Display', serif;
+     font-family:'Cambria, Cochin, Georgia, Times, Times New Roman, serif, sans-serif';
 }
 
 /* 2. Navigation Bar */
